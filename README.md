@@ -31,7 +31,7 @@ After completing this assignment, you be able to effectively use
 
 * A repo containing at least:
   * `dist/index.html`
-  * `dist/scripts/controllers.js`
+  * `dist/scripts/main.js`
   * `dist/bower.json`
 
 ### Requirements
@@ -41,7 +41,7 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Replicate the following behavior using angular.
+Replicate the following behavior using jQuery.
 ![Example](/likes.gif)
 
 ## Notes
