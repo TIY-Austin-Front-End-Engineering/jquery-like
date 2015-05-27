@@ -44,6 +44,9 @@ After completing this assignment, you be able to effectively use
 Replicate the following behavior using jQuery.
 ![Example](/likes.gif)
 
+## Hard Mode
+Create a new button that when clicked on, sets the like counter back to zero.
+
 ## Notes
 
 ## Additional Resources
