@@ -30,13 +30,13 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/index.html`
-  * `dist/scripts/main.js`
-  * `dist/bower.json`
+  * `index.html`
+  * `scripts/main.js`
+  * `package.json`
 
 ### Requirements
 
-* No JSHint warnings or errors
+* No ESLint warnings or errors
 * The text on the like button should correctly pluralize its self. For example: 0 likes, 1 like, 2 likes ...
 
 
